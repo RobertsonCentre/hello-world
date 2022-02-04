@@ -1,0 +1,20 @@
+this file has some text in it.
+
+And some more text in here
+
+And even more text
+
+loads more text
+And even more text
+
+some different text
+
+test update 3
+
+This is a change from Branch 1
+
+This is a change from branch 2
+
+Here's another change
+
+And another
